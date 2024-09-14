@@ -14,7 +14,7 @@ const Header = () => {
         >
           &#9776;
         </span>
-        <h1>Note</h1>
+        <h2>Note</h2>
       </nav>
      
     </>
